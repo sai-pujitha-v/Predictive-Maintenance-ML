@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+data/*.csv
+models/*.h5
+training_logs/
